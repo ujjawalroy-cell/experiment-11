@@ -1,8 +1,8 @@
 
-#include <stdio.h>
-#include <stdlib.h>
+#include <stdio.h>                         //Ujjawal roy       
+#include <stdlib.h>                        // 25/DA/061    
 #include <string.h>
-
+                                                
 #define MAX 100
 
 struct Node {
